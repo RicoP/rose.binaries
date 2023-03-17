@@ -1,0 +1,3 @@
+[submodule "rose.dependencies"]
+	path = rose.dependencies
+	url = git@github.com:RicoP/rose.dependencies.git
